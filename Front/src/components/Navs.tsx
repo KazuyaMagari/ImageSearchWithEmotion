@@ -10,7 +10,7 @@ function Navs() {
         <Form className="d-flex">
           <Form.Control
             type="search"
-            placeholder="Search"
+            placeholder="感情を入力してください"
             className="px-0 mx-0"
             aria-label="Search"
             style={{ color: "white", width: "80vw" }}
